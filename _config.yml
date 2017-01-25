@@ -11,25 +11,25 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+title:               hacktagon
+tagline:             'Shall we play a game?'
+description:         'we are made up of muk piece'
+url:                 https://hacktagon.github.io
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:              hacktagon
+  url:               https://twitter.com/hacktagon
+  email:             hacktagon.kr@gmail.com
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
+github:				http://github.com/hacktagon
+twitter:			http://twitter.com/hacktagon
 disqus:             testnaringu
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
